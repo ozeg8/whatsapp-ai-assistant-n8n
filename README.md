@@ -30,4 +30,4 @@ Built for businesses that want smart, scalable, and affordable automation.
 5. Run the Google Drive loader to populate the vector store
 
 ## 📬 Contact
-Built by [Your Name](https://linkedin.com/in/yourprofile)
+Built by [Your Name](https://linkedin.com/in/ozerg)
