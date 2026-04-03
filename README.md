@@ -8,7 +8,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-# 🤖 WhatsApp AI Assistant — n8n + Evolution API
+# 🤖 WhatsApp AI Assistant — n8n + Evolution API + RAG
 
 > A 24/7 AI-powered WhatsApp assistant that remembers every customer — forever.
 > Built for businesses that want smart, scalable, and affordable automation.
